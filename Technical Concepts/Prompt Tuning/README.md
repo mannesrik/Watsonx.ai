@@ -1,1 +1,4 @@
-
+- This repo will have tutorials of the following:
+ - Zero shot Learning
+ - One shot Learning
+ - Few Shot Learning
