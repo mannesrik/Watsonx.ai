@@ -1,3 +1,4 @@
-This Repo will contain of the following:
-- Hard/discrete Prompt tuning
-- Soft Prompt tuning.
+This repo will contain the following:
+- Feature base tuning
+- Fine tuning to update the output layers
+- Updating all layers
